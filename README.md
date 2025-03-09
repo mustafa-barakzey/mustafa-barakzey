@@ -1,29 +1,13 @@
-## Hi there 👋
-
-<!--
-**mustafa-barakzey/mustafa-barakzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Mustafa 👋
 
 Welcome to my GitHub profile!
 
 ## About Me
-- 🔭 I’m currently working on [ProjectName](https://github.com/YourUsername/ProjectName)
-- 🌱 I’m currently learning **[Technology/Framework]**
-- 💬 Ask me about **[Your expertise/skills]**
-- 📫 How to reach me: [Your Email](mailto:Mustafa@ptsolutions.org)
-- ⚡ Fun fact: **[Fun fact about you]**
+- 🔭 I’m currently working on (https://ptsolutions.org/)
+- 🌱 I’m currently learning **.Net**
+- 💬 Ask me about **.Net**
+- 📫 How to reach me: (mailto:mustafabarakzey@gmail.com)
+
 
 ## 🛠️ Languages and Tools
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
@@ -32,8 +16,8 @@ Welcome to my GitHub profile!
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YourUsername)
-- [Twitter](https://twitter.com/YourUsername)
+- [LinkedIn](https://www.linkedin.com/in/mustafa-barakzey)
+- [Twitter](https://twitter.com/MustafaBarakzey)
 
 Thanks for stopping by!
 
