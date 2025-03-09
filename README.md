@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 
-## **I'm a Software Architect and Microsoft MVP.**
+## **I'm a Software Developer (.Net).**
 
 ## About Me
 - 🔭 I’m currently working on (https://ptsolutions.org/)
